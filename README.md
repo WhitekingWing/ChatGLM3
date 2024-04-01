@@ -201,6 +201,12 @@ git clone https://huggingface.co/THUDM/chatglm3-6b
 ```
 
 如果从你从 HuggingFace 下载比较慢，也可以从 [ModelScope](https://modelscope.cn/models/ZhipuAI/chatglm3-6b)
+或者国人可以用这个，不需要梯子
+
+```Shell
+git clone https://ai.gitee.com/hf-models/chatglm3-6b/
+```
+
 中下载。
 
 ### 模型微调
